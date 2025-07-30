@@ -31,5 +31,7 @@ The project is built to:
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+- php
+- hack
 
 ---
